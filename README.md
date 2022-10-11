@@ -22,5 +22,5 @@ This is a clone of the home page of RODE: https://rode.com/en. It is a responsiv
 - Correct the sticky menu.
 - improve finer details.
 
-Time-Taken:
+## Time-Taken:
 8hours approx.
