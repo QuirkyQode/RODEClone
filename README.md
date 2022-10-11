@@ -2,6 +2,8 @@
 
 This is a clone of the home page of RODE: https://rode.com/en. It is a responsive website implementation using tailwind.
 
+## Deployed link:
+https://rode-clone-tailwind-res.netlify.app/
 
 ## Tech used:
 - HTMLCSS
