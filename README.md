@@ -22,6 +22,8 @@ https://rode-clone-tailwind-res.netlify.app/
 
 ## TODO:
 - Correct the sticky menu.
+- Give proper hyper-links
+- Implement animations wherever necessary
 - improve finer details.
 
 ## Time-Taken:
